@@ -1,8 +1,8 @@
-version: 6.0.1
+version: 6.0.3
 files:
-  - url: wolfbotapp-Setup-6.0.1.exe
-    sha512: +b3C90juKg/UcO/C21Hee/BeZCXv461sRMxRCvLo6KwdsHmPA62nKG2moeb4VinEX+GrPp9J0Zu1L1CHZ5I+Bg==
-    size: 101100418
-path: wolfbotapp-Setup-6.0.1.exe
-sha512: +b3C90juKg/UcO/C21Hee/BeZCXv461sRMxRCvLo6KwdsHmPA62nKG2moeb4VinEX+GrPp9J0Zu1L1CHZ5I+Bg==
-releaseDate: '2025-03-05T08:43:18.854Z'
+  - url: wolfbotapp-Setup-6.0.3.exe
+    sha512: 5qIMtuKYnTocxrk+eLDs2jTbX3K79+6kQFGvjh9Nt3S51XiB0EB4pd9TbDr4Tf1y6s/wuSDSJxY1J0632nWoJA==
+    size: 101100384
+path: wolfbotapp-Setup-6.0.3.exe
+sha512: 5qIMtuKYnTocxrk+eLDs2jTbX3K79+6kQFGvjh9Nt3S51XiB0EB4pd9TbDr4Tf1y6s/wuSDSJxY1J0632nWoJA==
+releaseDate: '2025-03-06T09:26:29.341Z'
